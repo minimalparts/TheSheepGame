@@ -4,7 +4,7 @@ The sheep game is a cooperative game. Everybody wins or everybody loses!
 
 ## Synopsis 
 
-<img style="width: 50px; height: 50px;" alt="The sheep game" src="img/ram.png" align="right">
+<img style="width:150px; height:150px;" alt="The sheep game" src="img/ram.png" align="right">
 
 **Real life:** you were told we were all born equal, and it is down to you to make your life that incredible source of success and happiness. For some reason, it all didn't quite work out. Your parents were poor, or you had health problems, or you had to look after your siblings and then your own children, or juggle working and studying. Perhaps you struggled to pay your mortgage, your company went bankrupt, you were in emotionally difficult situations. Or simply, your business idea for environmentally-friendly irrigation got less attention than the latest make-your-own-emoticon application. You haven't found success. Happiness is a luxury. And apparently, it's all your fault. (Because we were born equal, remember?)
 
