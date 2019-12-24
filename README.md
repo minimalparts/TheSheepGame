@@ -4,11 +4,12 @@ The sheep game is a cooperative game. Everybody wins or everybody loses!
 
 ## Synopsis 
 
+<img style="width: 150px; height: 150px;" alt="The sheep game" src="img/ram.png" align="right">
+
 **Real life:** you were told we were all born equal, and it is down to you to make your life that incredible source of success and happiness. For some reason, it all didn't quite work out. Your parents were poor, or you had health problems, or you had to look after your siblings and then your own children, or juggle working and studying. Perhaps you struggled to pay your mortgage, your company went bankrupt, you were in emotionally difficult situations. Or simply, your business idea for environmentally-friendly irrigation got less attention than the latest make-your-own-emoticon application. You haven't found success. Happiness is a luxury. And apparently, it's all your fault. (Because we were born equal, remember?)
 
 **The Sheep Game:** let's not kid ourselves. We were not born equal. Neither in terms of resources, neither in terms of needs. But we can practise living together in a way that we look after each person's happiness. So let's imagine...
 
-<img style="width: 250px; height: 250px;" alt="The sheep game" src="img/ram.png" align="right"><br>
 
 <br>
 You're a small group of friends who decide to raise sheep together in a commune. At the beginning of the game, you all come to the project with different means: some of you are richer and own more sheep than others. You also all have various wishes (a new bicycle, or a trip to to the Bermuda Triangle...) The goal of the game is to make everybody happy by satisfying their wishes. You decide at the beginning of the game how many years you will spend together on your commune, and you must survive that length of time in order to win the game. But beware: if at the end of any year, someone has more than 2 unfulfilled wishes, you all have lost!
