@@ -1,20 +1,24 @@
-# The Sheep Game
+# The Sheep Game (3+ players)
 
-The sheep game is a cooperative game. Everybody wins or everybody loses! The basic idea of the game can be best summarised by comparing it with the real world:
+The sheep game is a cooperative game. Everybody wins or everybody loses! The basic idea of the game is best summarised by comparing it with the real world:
 
 <img width="200" height="200" alt="The sheep game" src="img/ram.png" align="right">
 
 **Real life:** you were told we were all born equal, and it is down to you to make your life that incredible source of success and happiness. For some reason, it all didn't quite work out. Your parents were poor, or you had health problems, or you had to look after your siblings and then your own children, or juggle working and studying. Perhaps you struggled to pay your mortgage, your company went bankrupt, you were in emotionally difficult situations. Or simply, your business idea for environmentally-friendly irrigation got less attention than the latest make-your-own-emoticon application. You haven't found success. Happiness is a luxury. And apparently, it's all your fault. (Because we were born equal, remember?)
 
-**The Sheep Game:** let's not kid ourselves. We were not born equal. Neither in terms of resources, neither in terms of needs. But we can practise living together in a way that we look after each person's happiness. So let's imagine...
+**The Sheep Game:** let's be realistic. We were not born equal. Neither in terms of resources, neither in terms of needs. And life makes us even more unequal. Still, we can practise living together in a way that we look after each person's happiness. So let's imagine...
 
 
 ## Synopsis 
 
-You're a small group of friends who decide to raise sheep together in a commune. At the beginning of the game, you all come to the project with different means: some of you are richer and own more sheep than others. You also all have various wishes (a chocolate bar, a new bicycle, or a trip to to the Bermuda Triangle...) The goal of the game is to make everybody happy by satisfying their wishes. You decide at the beginning of the game how many years you will spend together on your commune, and you must survive that length of time in order to win the game. But beware: if at the end of any year, someone has more than 2 unfulfilled wishes, you all have lost!
+You're a small group of friends who decide to raise sheep together in a commune. You all come to the project with different means: some of you are richer and own more sheep than others. You also all have various wishes (a chocolate bar, a new bicycle, or a trip to to the Bermuda Triangle...) The goal of the game is to make everybody happy by satisfying their wishes. You decide at the beginning of the game how many years you will spend together on your commune, and you must survive that length of time in order to win the game. But beware: if at the end of any year, someone has more than 2 unfulfilled wishes, you all have lost!
 
-You might think that keeping people happy is easy. Swear you will help each other, and everything will follow. Things are not that simple, though. Despite your best intentions, LIFE interferes with your plans. You will need all your wisdom to stay true to your idea of a better world. And you might learn a few things along the way...
+Now, you might think that keeping people happy is easy: you must simply commit to helping each other, and everything will follow. Things are not that simple, though. Despite your best intentions, LIFE interferes with your plans. You will need all your wisdom to stay true to your idea of a better world. And you might learn a few things along the way...
 
+
+## Advisory
+
+The sheep game includes the gory aspects of sheep holding. Your sheep may get ill and die. Also, while your female lambs will grow to be milk providers, the only source of income coming from your male lambs is meat.
 
 
 ## Setting up the game for the first time
@@ -23,7 +27,8 @@ Setting up the game involves a printer and a pair of scissors. Head to the *img*
 
 * some sheep currency (MEH) in the *money* folder (you can also just steal cash from another game, preferably a competitive one...) 
 * life and wish cards from the *life* and *wishes* directories;
-* some male and female sheep from the *farm* directory.
+* some male and female sheep from the *farm* directory;
+* a ram, a sheep dog and a shelter card, also from the *farm* directory.
 
 Very importantly, go and find yourself a 'vet' card: for instance, cut someone's picture out of a magazine. The best vet is one that all players like the look of. The reason for this will become obvious in the course of the game.
 
@@ -54,8 +59,8 @@ In addition, the following seasons require extra actions:
 
 * **Autumn:** For each adult ewe the player owns, randomly pick one sheep out of the bag and find out whether you will have a new little male or female sheep in Spring. Put this sheep under the ewe: it is not born yet! Then, if you haven't yet done so, roll the die to pick new wish cards. Half of your wish cards are 'open': other players can see them. Half is hidden: they are your secret wishes. If you rolled an odd number, the majority of your cards should be 'open'.
 * **Spring:** your lambs are born. They can come out of their mothers' bellies! Spring is also the time you collect money from the bank for the milk you sold. Get 200 MEH per adult ewe with a baby.
-* **Summer:** right at the end of the Summer turn, check how many unfulfilled wishes are left on each player's hand. If all have 2 or less unfulfilled wishes, carry on playing (or win, if this is your
-final year!) If not, you have lost the game :(
+* **Summer:** right at the end of the Summer turn, check how many unfulfilled wishes are left on each player's hand. If all have two or less unfulfilled wishes, carry on playing (or win, if this is your
+final year!) If a player has three or more unfulfilled wishes, you have lost the game.
 
 ### Rules associated with life cards
 
@@ -75,6 +80,8 @@ final year!) If not, you have lost the game :(
 
 * A ram: 100 MEH
 * A ewe: 500 MEH
+* A sheep dog: 1500 MEH
+* A shelter: 3000 MEH
 * Milk: 200 MEH per adult ewe with baby
 * A vet's visit: 50 MEH per sheep
 
