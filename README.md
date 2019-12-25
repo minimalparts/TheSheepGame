@@ -26,9 +26,9 @@ The sheep game includes the gory aspects of sheep holding. Your sheep may get il
 Setting up the game involves a printer and a pair of scissors. Head to the *img* folder and start printing. You will find:
 
 * some sheep currency (MEH) in the *money* folder (you can also just steal cash from another game, preferably a competitive one...) 
-* life and wish cards from the *life* and *wishes* directories;
-* some male and female sheep from the *farm* directory;
-* a ram, a sheep dog and a shelter card, also from the *farm* directory.
+* life and wish cards in the *life* and *wishes* directories;
+* some male and female sheep in the *farm* directory;
+* a ram, a sheep dog and a shelter card, as well as a board called *commons.png*, also in the *farm* directory.
 
 Very importantly, go and find yourself a 'vet' card: for instance, cut someone's picture out of a magazine. The best vet is one that all players like the look of. The reason for this will become obvious in the course of the game.
 
@@ -45,15 +45,17 @@ Here are some suggestions for how to play the game. You may find that they do no
 * Each player rolls a dice. Multiply the roll by 100: this is the player's starting capital.
 * Each player rolls a dice. This is the number of sheep already owned by that player (all ewes).
 
+You must also buy a ram to breed with your sheep. The ram costs 100 MEH, and all player can contribute to the cost. Put the ram card in the designated slot on the 'commons'. You don't have to buy a sheep dog or a shelter at the beginning of the game. They can be bought later on when you collectively decide it.
+
 The game starts in Autumn and lasts as many years as you have decided. Once the players have their initial allocation of sheep, turn all remaining sheep face down, or put them in a bag.
 
 ### Gameplay, per season
 
-In each season, the players go through two phases, in turn:
+In each season, the players go through two phases, playing one after the other in clockwise order:
 
 * Draw a life card and act upon it.
 * Buy, sell, redistribute. You can satisfy wishes. You can sell sheep to the bank (a ewe=500, a ram=100). You can redistribute by giving money or sheep to others, or satisfy their wishes. But beware, some
-life cards will prevent you from redistributing. Also, do respect the order of play!
+life cards will prevent you from redistributing. You can also collectively decide to buy a sheep dog or a shelter in this phase.
 
 In addition, the following seasons require extra actions:
 
@@ -61,6 +63,11 @@ In addition, the following seasons require extra actions:
 * **Spring:** your lambs are born. They can come out of their mothers' bellies! Spring is also the time you collect money from the bank for the milk you sold. Get 200 MEH per adult ewe with a baby.
 * **Summer:** right at the end of the Summer turn, check how many unfulfilled wishes are left on each player's hand. If all have two or less unfulfilled wishes, carry on playing (or win, if this is your
 final year!) If a player has three or more unfulfilled wishes, you have lost the game.
+
+To keep track of the season, put a marker in the appropriate position on the 'commons' board.
+
+Very importantly, do respect the order of play, even in the redistribution phase! Players should take their actions in turn, clockwise. Once a player has taken all the actions they wished, they cannot buy / sell / redistribute any further this season.
+
 
 ### Rules associated with life cards
 
