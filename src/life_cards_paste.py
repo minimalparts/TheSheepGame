@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 
 lifepath="img/life/"
-life_files = [join(lifepath,f) for f in listdir(lifepath) if isfile(join(lifepath, f))]
+life_files = [join(lifepath,f) for f in listdir(lifepath) if isfile(join(lifepath, f)) and f != ".gitignore"]
 
 combi = []
 i0 = Image.open(life_files[0])

@@ -4,7 +4,7 @@ from os import listdir
 from os.path import isfile, join
 
 wishpath="img/wishes/"
-wish_files = [join(wishpath,f) for f in listdir(wishpath) if isfile(join(wishpath, f))]
+wish_files = [join(wishpath,f) for f in listdir(wishpath) if isfile(join(wishpath, f)) and f != ".gitignore"]
 
 combi = []
 i0 = Image.open(wish_files[0])
