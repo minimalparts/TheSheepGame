@@ -32,7 +32,9 @@ Setting up the game involves a printer and a pair of scissors. Head to the *img*
 
 Very importantly, go and find yourself a 'vet' card: for instance, cut someone's picture out of a magazine. The best vet is one that all players like the look of. The reason for this will become obvious in the course of the game.
 
-In addition, get yourselves a 6-sided dice. 
+In addition, get yourselves a 6-sided dice.
+
+**NB:** if you find the sheep very badly drawn, that's because they are. If you think you can draw better, send me a pull request with new sheep.
 
 
 ## Rules of the game
@@ -45,7 +47,7 @@ Here are some suggestions for how to play the game. You may find that they do no
 * Each player rolls a dice. Multiply the roll by 100: this is the player's starting capital.
 * Each player rolls a dice. This is the number of sheep already owned by that player (all ewes).
 
-You must also buy a ram to breed with your sheep. The ram costs 100 MEH, and all player can contribute to the cost. Put the ram card in the designated slot on the 'commons'. You don't have to buy a sheep dog or a shelter at the beginning of the game. They can be bought later on when you collectively decide it.
+You must also buy a ram to breed with your ewes. The ram costs 100 MEH, and all players can contribute to the cost. Put the ram card in the designated slot on the 'commons'. You don't have to buy a sheep dog or a shelter at the beginning of the game. They can be bought later on when you collectively decide it.
 
 The game starts in Autumn and lasts as many years as you have decided. Once the players have their initial allocation of sheep, turn all remaining sheep face down, or put them in a bag.
 
@@ -79,7 +81,8 @@ Very importantly, do respect the order of play, even in the redistribution phase
 ### Rules regarding the vet
 
 * The vet's pronoun is they/them.
-* The vet charges 50 MEH per visit and per sheep.
+* The vet normally charges 50 MEH per visit and per sheep.
+* The vet does not charge the people they're dating.
 * The vet is great, but not infallible. They will do their best to treat your sheep when called, but fate can interfere. Illness cards are marked with health points (e.g. "health -2"). When the vet visits, a dice should be rolled. If the number on the dice *minus* the number on the card is zero or less, your sheep dies, despite the vet's efforts. The bill must still be paid.<br>
 **Example:** you draw an illness card with "health -2". You call the vet. Rolling the dice gives you a 3. Since 3 - 2 = 1, your sheep lives. If you had rolled a 2 or a 1, the sheep would sadly have died. 
 

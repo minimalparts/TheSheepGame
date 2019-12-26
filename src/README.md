@@ -5,6 +5,7 @@ The *lists* directory contains two files: *lifecards.txt* and *wishes.txt*. Edit
     python3 life_card_maker.py
 
 and 
+
     python3 wish_card_maker.py
 
 This will create separate images for each card in the game, saved in the *img* directory.
