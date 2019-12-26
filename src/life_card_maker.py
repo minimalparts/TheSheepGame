@@ -3,7 +3,7 @@ import sys
 import textwrap
 
 font = ImageFont.truetype("AnnabelScript.ttf", 72)
-font2 = ImageFont.truetype("Raleway-Regular.ttf", 30)
+font2 = ImageFont.truetype("Raleway-Regular.ttf", 26)
 cardtitle="Life"
 
 life_file = open("lists/lifecards.txt", "r")
@@ -26,7 +26,7 @@ for i in range(len(life_cards)):
     draw.text((box[2]-470,box[1]+20), cardtitle, fill=0, font=font)
 
     fromtop=150
-    for toprint in textwrap.wrap(card_text, width=40):
+    for toprint in textwrap.wrap(card_text, width=45):
         draw.text((box[2]-650,box[1]+fromtop), toprint, fill=0,font=font2)
         fromtop=fromtop+40
 	

@@ -1,42 +1,63 @@
-A researcher in critical theory visits you and explain that some of your wishes are false needs. Lose a wish.
+# Spendy mood cards
+Spendy mood: you buy 5000 business cards for the commons (100 MEH).
+Spendy mood: you buy a sheep sculpture for the commons (500 MEH).
+Spendy mood: you celebrate your favourite sheep's birthday: food and drinks for all! (200 MEH)
+Spendy mood: you commission a professional picture of each sheep on the commons (5 MEH/sheep).
+Spendy mood: you paint the fence pink (200 MEH).
+Spendy mood: you purchase an advertisement spot in the glossy 'Farming for all' magazine (50 MEH).
+
+# Paranoid mood cards
+Paranoid mood: don't redistribute this season. Just in case.
+Paranoid mood: you buy a fire extinguisher for each sheep shelter on the commons (50 MEH/shelter).
+Paranoid mood: you buy an extra food supplement for your sheep, advertised on the TV (10 MEH/sheep).
+Paranoid mood: you get the soil of the commons tested by an independent lab (150 MEH).
+Paranoid mood: you call the vet to get advice on foreign sheep diseases (50 MEH).
+Paranoid mood: the sheep dog may not be as well trained as he looks. Go on a weekend seminar (500 MEH). (You don't have a sheep dog? Buy one!)
+
+# Bossy mood cards
 Bossy mood: you convince the majority that you have to buy a new shelter as soon as possible (even if you already have one).
-Bossy mood: you convince the majority that all depressed players should have a psychotherapy. (3000/player).
+Bossy mood: you proclaim yourself leader of the commune. You decide at the end of the round how redistribution should run. You then get brought down from your pedestal by the other players.
 Bossy mood: you convince the majority that the sheep dog must take part in a dogs' beauty show. The sheep dog is at the beauty parlour and not available til year end.
-Buy a lottery ticket. (5) Throw the die 6 times. The winning numbers are 1 2 3 4 5 6. Get 10 for 3 numbers, 100 for 4 numbers, 1000 for 5 numbers and 10,000 for 6 numbers!!
-The TV says it: cheese is good for you! Milk prices up by 50% this year. [common]
-Depressed farmer. You find it hard to get up so early every morning. Give all your sheep to the person on your left and do not take any action this season.
-Depressed farmer. Your sister has a job in finance and is earning much more than you. Stop redistributing. [Lasts until year end]
-Depressed farmer. You actually wanted to be a vet. You take up a long-distance course and start neglecting your animals. All get ill (health -2).
-Depressed farmer. You feel your life is a failure. But if only you had a --- (draw a wish card), things would be different. Do not redistribute until your wish has been fulfilled, or you have had a psychotherapy.
-Family pressure: your brother has gambled his house away. Give him some cash so he gets back on his feet. (5000)
-Family pressure: the daughter of your aunt's stepsister has just had a baby. Send some presents. (100)
-Family pressure: your parents remind you that you still owe them for your bachelor in Environmental Design. Keep the peace and send cash.  (1000)
-Family pressure: your sister has just moved to Japan. You *have* to visit. (3000)
-Family pressure: you did promise your little nephew that glow-in-the-dark fluffy toy. (50)
-Gift from Betty, your American aunt (200)
-Gift from Marge, your American aunt (300)
-Gift from Lily, your American aunt (400)
-Gift from Jody, your American aunt (500)
-Gift from Minnie, your American aunt (600)
-Climate change: dangerously windy weather. Trees are flying. Each player throws a 4-sided die and loses that many sheep. [common, counteracted by shelter]
-Climate change: dangerously rainy weather. The commons look like a bacteria-infected swamp. Each player throws a 4-sided die and loses that many sheep. [common, counteracted by shelter]
-Climate change: dangerously stormy weather, with hail. Each player throws the die. Lose a sheep if the score is under 4. [common, counteracted by shelter]
-Climate change: dangerously cold weather for the season. Each player throws the die. Lose a sheep if the score is under 4. [common, counteracted by shelter]
-Inheritance (1000)
-Inheritance (1000)
-Inheritance (2000)
-Inheritance (3000)
-Inheritance (500)
-Jealousy: don't redistribute to the player with the most fulfilled wishes. [Lasts until year end]
-Jealousy: don't redistribute to the player with the most fulfilled wishes. [Lasts until year end]
-Jealousy: don't redistribute to the player with the most fulfilled wishes. [Lasts until year end]
-Jealousy: don't redistribute to the player with the most fulfilled wishes. [Lasts until year end]
-Meditation card: drive a wish away.
-Meditation card: drive a wish away.
-Meditation card: drive a wish away.
+
+# Anti-mood cards
+You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
+You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
+You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
+You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
+You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
+You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
+
+# Family pressure cards
+Family pressure: your brother has gambled his house away. Give him some cash so he gets back on his feet. (5000 MEH)
+Family pressure: the daughter of your aunt's stepsister has just had a baby. Send some presents. (100 MEH)
+Family pressure: your parents remind you that you still owe them for your bachelor in Environmental Design. Keep the peace and send cash.  (1000 MEH)
+Family pressure: your sister has just moved to Japan. You *have* to visit. (3000 MEH)
+Family pressure: you did promise your little nephew that glow-in-the-dark fluffy toy. (50 MEH)
+
+# Gifts / inheritance cards
+Gift from Betty, your American aunt (200 MEH)
+Gift from Marge, your Australian aunt (300 MEH)
+Gift from Adalheidis, your Icelandic aunt (400 MEH)
+Gift from Angweng, your Kenyan aunt (500 MEH)
+Gift from Alcina, your Greek aunt (a sheep)
+Inheritance from your sister commune in Oregon (1000 MEH)
+Inheritance from am ascetic relative (3000 MEH). Receiving the money is conditional on the promise to not purchase anything for yourself an entire year. Your defunct relative hopes you will eventually just give the money to those in needs.
+Inheritance from your capitalist uncle (5000 MEH). Discuss amongst yourselves whether to accept the money.
+Inheritance from a lost cousin in the Andes (500 MEH).
+Inheritance from your Georgian step-grandfather (a sheep dog).
+
+# Climate change cards
+Climate change: dangerously windy weather. Trees are flying. Each player throws the dice and loses a sheep if the score is under 4. [common, counteracted by shelter]
+Climate change: dangerously rainy weather. The commons look like a bacteria-infected swamp. Each player throws the dice and loses a sheep if the score is under 2. [common, counteracted by shelter]
+Climate change: dangerously stormy weather, with hail. Each player throws the dice and loses a sheep if the score is under 3. [common, counteracted by shelter]
+Climate change: dangerously cold weather for the season. Each player throws the dice and loses a sheep if the score is under 4. [common, counteracted by shelter]
+Climate change: the Gulf Stream has collapsed and temperatures are sinking dramatically. Wool is in fashion again. Get 2000 MEH for this year's wool production, to be shared amongst players.
+Climate change: houses all over are invaded by mice. Natural wool is an excellent mouse-proof insulation material. Get 1000 MEH for this year's wool production, to be shared amongst players.
+
+# Illness cards
 One of your sheep has a bloated stomach (health -2)
 One of your sheep has a bloated stomach (health -2)
-One of your sheep was bitten by a wolf (health -4)
+One of your sheep was bitten by a lone wolf (health -4)
 One of your sheep has footrot (health -2)
 One of your sheep has hypomagnesaemia (health -4)
 One of your lambs has watery mouth (health -2) [Only applicable in Spring]
@@ -44,66 +65,78 @@ One of your lambs has coccidiosis (health -4) [Only applicable in Spring or Summ
 One of your sheep was bitten by the neighbour's dachshund (health -4)
 Some kid fed one of your sheep a whole bag of jelly beans (health -2)
 Epidemic of footrot (health -2). All sheep on the commons are affected. [common]
-Paranoid mood: don't redistribute this season. Just in case.
-Paranoid mood: you buy a fire extinguisher for each sheep shelter on the commons (50/shelter).
-Paranoid mood: you buy an extra food supplement for your sheep, advertised on the TV (10/sheep).
-Paranoid mood: you get the soil of the commons tested by an independent lab (150).
-Paranoid mood: you call the vet to get advice on foreign sheep diseases (50).
-Paranoid mood: the sheep dog may not be as well trained as he looks. Go on a weekend seminar (500). (You don't have a sheep dog? Buy one!)
-Spendy mood: you buy 5000 business cards for the commons (100).
-Spendy mood: you buy a sheep sculpture for the commons (500).
-Spendy mood: you celebrate your favourite sheep's birthday: food and drinks for all! (200)
-Spendy mood: you commission a professional picture of each sheep on the commons (5/sheep).
-Spendy mood: you paint the fence pink (200).
-Spendy mood: you purchase an advertisement spot in the glossy 'Farming for all' magazine (50).
-Spontaneous abortion: this sheep won't have lambs this year.
-Spontaneous abortion: this sheep won't have lambs this year.
-Super ram: +1 to each player's lamb count. [common]
-Super sheep: this sheep get an extra lamb. [only applicable in autumn or winter]
-Super sheep: this sheep get an extra lamb. [only applicable in autumn or winter]
-Super sheep: this sheep get an extra lamb. [only applicable in autumn or winter]
-Synthetic fabrics are in fashion: no wool sold this year.  [common]
-The sheep dog is in love with the neighbour's dachshund. Roll a 4-sided die and lose that many sheep as the result of the dog's distracted state.
-The sheep dog was in the line of fire of the blind hunter. Despite being unharmed, he must recover from the trauma and will be off work for the rest of the season.
-The ram turns gay. You must buy a new ram. You gay sheep can be kept on the commons or sold, inspect your conscience. [common]
-The vet breaks up with their current partner.
-The vet breaks up with their current partner.
-The vet breaks up with their current partner.
-The vet is depressed. They will not come and treat your sheep this season. [common]
-The vet turns polyamorous. [common]
-The vet's car has broken down and they're strapped up for cash. Either pay for the repair (200) or live without their services for a season. [common]
-The vet has a soft spot for you. They buy your cheapest wish for you.
-Vegans on the rise: only half of the cheese production is sold this year.  [common]
+The ram has taken a liking to kicking things and people. You are now covered with bruises and must recover. Call the vet, they are better than your family doctor (50 MEH). Also, don't redistribute this round. You're exhausted.
+
+# Wandering sheep cards
 Wandering sheep: one of your sheep has eloped. [Counteracted by sheep dog]
 Wandering sheep: one of your sheep has decided to go explore the world. [Counteracted by sheep dog]
 Wandering sheep: one of your sheep was last seen on the truck of a hippie vegan collective. [Counteracted by sheep dog]
 Wandering sheep: one of your sheep thinks it belongs to the neighbour. Give it up. [Counteracted by sheep dog]
 Wandering sheep: one of your sheep got scared by a thunderstorm. [Counteracted by sheep dog]
 Wandering sheep: one of your sheep got stolen by a trendy sheep photographer. [Counteracted by sheep dog, who bit the artist]
-Win the cereal packet competition: get a wish free (500 max)
-Win the cereal packet competition: get a wish free (500 max)
-Win the cereal packet competition: get a wish free (500 max)
-You give the vet a beautiful bunch of field flowers. They cannot resist you. If you were not already the vet's partner, you are it now!
+
+# Depressed farmer cards
+Depressed farmer. You find it hard to get up so early every morning. Give all your sheep to the person on your left and do not take any action this season.
+Depressed farmer. Your sister has a job in finance and is earning much more than you. Stop redistributing. [Lasts until year end]
+Depressed farmer. You actually wanted to be a vet. You take up a long-distance course and start neglecting your animals. All get ill (health -2).
+Depressed farmer. You feel your life is a failure. But if only you had a [---] (draw a wish card), things would be different. Do not redistribute until your wish has been fulfilled, or you have had a psychotherapy.
+Depressed farmer. You feel people don't understand your needs. Stop redistributing until someone has given you [---] (fill the blank with your own desire, but don't tell other players what it is).
+
+# Jealousy cards
+Jealousy: don't redistribute to the player with the most fulfilled wishes. [Lasts until year end]
+Jealousy: don't redistribute to the player with the most expensive fulfilled wish. [Lasts until year end]
+Jealousy: don't redistribute to the player with the least fulfilled wishes. You can't bear their self-righteousness. [Lasts until year end]
+Jealousy: don't redistribute to the player with the most sheep. [Lasts until year end]
+
+# Wisdom cards
+Philosophy card: a researcher in critical theory visits you and explain that some of your wishes are false needs. Lose a wish.
+Meditation card: choose whether or not to go on a three-months retreat. You won't be able to take any action this season if you go, but you can drive a wish away upon your return!
+Meditation card: drive to your local Buddhist center and drive a wish away.
+Meditation card: a friend forced you to try out a yoga class. You hated it, but you also somehow feel lighter. Drive a wish away.
+You're not a materialist. All you want is sheep. Get rid of all your wishes. You now want 5 sheep (each sheep counts as an unfulfilled wish).
+
+# Sheep dog cards
+The neighbour asks about your sheep dog. If you have a sheep dog, display your animal proudly. If you haven't, save face by explaining you are in the process of acquiring one. Start gathering the money and buy one ASAP!
+A sheep dog appears on the commons and pretends it's always lived here. You don't work too hard to find its owner, and no one claims it. You adopt it. Get it vaccinated (100 MEH).
+The sheep dog is in love with the neighbour's dachshund. Roll the dice and lose that many sheep as the result of the dog's distracted state. [Common, the loss of sheep is to be shared collectively]
+The sheep dog was in the line of fire of the blind hunter. Despite being unharmed, he must recover from the trauma and will be off work for the rest of the year.
+
+# Shelter cards
+Discuss amongst yourselves whether the purchase of a (new) shelter might not be overdue... [common]
+An advertisment comes through your letterbox: sheep shelters for 2000 MEH only!! Discuss... [common]
+The neighbours have given you some unused wood from their workshop. You decide to build a sheep shelter. This saves you 3000 MEH, but also exhausts you. You fall asleep and are not available for the distribution round this season.
+
+# Vet cards
+You give the vet a beautiful bunch of field flowers. They cannot resist you. If you were not already the vet's partner, you are now!
+You insulted the vet at a crossroad (you are dead certain you had priority). They will not treat your sheep this year.
+The vet breaks up with their current partner over an argument concerning the pharmaceutical industry.
+The vet breaks up with their current partner over their driving style.
+The vet breaks up with their current partner over the delicate matter of dog training.
+You've been sharing pet pictures with the vet on social media. The likes have developed into love. You two are now dating.
+You organised the last village party, including fantastic music by DJ Meh-Moo. The vet had the time of their life. You two are now dating.
+The vet has been having a rough patch. You listened. They fell in your arms. You two are now dating.
+Due to an ordering mistake, the vet is out of disinfectant. You save the day by driving over with your own home-made vodka. They are very impressed by you. You start dating.
+The vet is depressed. They will not come and treat your sheep this season. [common]
+The vet turns polyamorous. [common]
+The vet's car has broken down and they're strapped up for cash. Either pay for the repair (500 MEH) or live without their services until year end. [common]
+The vet has a soft spot for you. They buy your cheapest wish for you.
+You're in love with the vet. And prone to jealousy. Don't redistribute to the vet's current partner.
+
+# Male lambs cards
+You think sheep holding is cruel on those sweet little male lambs. Don't sell any male lamb anymore.
+One of your male lambs has been rejected by his mother. You raised it with the bottle. You get very attached to the little one and promise yourself you will never sell it. His name is Bob. [Use next time you get a male lamb.]
+The last male lamb born this year is particularly cute and draws lots of 'Oh's and 'Ah's. Against all rules, you give him a name (discuss this amongst yourselves). This lamb will never be sold. [Use next time male lambs are born.]
+
+# Miscellaneous
+The ram turns gay. You must buy a new ram. Your gay sheep can be kept on the commons or sold, inspect your conscience. [common]
+Vegans on the rise: only half of the cheese production is sold this year.  [common]
+The TV says it: cheese is good for you! Milk prices up by 50% this year. [common]
 You have a bad mood. Don't redistribute at the end of the round.
-You insulted the vet at a crossroad (you are dead certain you had priority). They will not treat your sheep this season.
-You're dating the vet (they will treat your sheep without charge).
-You're dating the vet (they will treat your sheep without charge).
-You're dating the vet (they will treat your sheep without charge).
-You're dating the vet (they will treat your sheep without charge).
-You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
-You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
-You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
-You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
-You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
-You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
-You're in love with the vet. Don't redistribute to the vet's current girl/boyfriend.
-You're in love with the vet. Don't redistribute to the vet's current girl/boyfriend.
+Buy a lottery ticket. (5 MEH) Throw the die 6 times. The winning numbers are 1 2 3 4 5 6. Get 10 MEH for 3 numbers, 100 for 4 numbers, 1000 for 5 numbers and 10,000 for 6 numbers!!
 You're disappointed with the quality of your last fulfilled wish. Return it to your wish pile.
-Send one of the village kids to spy on another player. That player must uncover one of their secret wishes. (20)
+Send one of the village kids to spy on another player. That player must uncover one of their secret wishes. (5 MEH)
 The player on your left convinces you that you also want one of their unfulfilled wishes. This increases your unfulfilled wishes count by 1.
 You think you're a very modest person who never wishes for anything. Let yourself be tempted. Pick another wish card.
 Having spoken to the player on your right for a while, you now want what they want and they want what you want. Exchange open wishes.
-You think sheep holding is cruel on those sweet little male lambs. Don't sell any male lamb anymore.
 You're clearing up the house. Sell three of your fulfilled wishes on ebay (get 50% of the original price).
-You've found some illegal copy of one of your unfulfilled wishes on ebay. When you get it, it will only cost half of the original price.
-You're not a materialist. All you want is sheep. Get rid of all your wishes. You now want 5 sheep (each sheep counts as an unfulfilled wish).
+You've found some illegal copy of one of your unfulfilled wishes on ebay. When you eventually order it, it will only cost half of the original price.
