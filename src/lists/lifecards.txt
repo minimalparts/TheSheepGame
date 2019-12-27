@@ -11,28 +11,29 @@ Paranoid mood: don't redistribute this season. Just in case.
 Paranoid mood: you buy a fire extinguisher for each sheep shelter on the commons (50 MEH/shelter).
 Paranoid mood: you buy an extra food supplement for your sheep, advertised on the TV (10 MEH/sheep).
 Paranoid mood: you get the soil of the commons tested by an independent lab (150 MEH).
-Paranoid mood: you call the vet to get advice on foreign sheep diseases (50 MEH).
+Paranoid mood: you call the vet to get advice on rare sheep diseases (50 MEH).
 Paranoid mood: the sheep dog may not be as well trained as he looks. Go on a weekend seminar (500 MEH). (You don't have a sheep dog? Buy one!)
 
 # Bossy mood cards
 Bossy mood: you convince the majority that you have to buy a new shelter as soon as possible (even if you already have one).
 Bossy mood: you proclaim yourself leader of the commune. You decide at the end of the round how redistribution should run. You then get brought down from your pedestal by the other players.
 Bossy mood: you convince the majority that the sheep dog must take part in a dogs' beauty show. The sheep dog is at the beauty parlour and not available til year end.
+Bossy mood: you insist the commune must grow. Convince everybody they should be buy a new ewe (500 MEH).
 
 # Anti-mood cards
 You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
 You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
-You're fed up with paranoia: stop redistributing to the person with the most 'paranoid mood' cards. [Lasts until year end]
 You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
 You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
-You're fed up with spenders: stop redistributing to the person with the most 'spendy mood' cards. [Lasts until year end]
+You're fed up with bossy people: stop redistributing to the person with the most 'bossy mood' cards. [Lasts until year end]
+You're fed up with bossy people: stop redistributing to the person with the most 'bossy mood' cards. [Lasts until year end]
 
 # Family pressure cards
 Family pressure: your brother has gambled his house away. Give him some cash so he gets back on his feet. (5000 MEH)
 Family pressure: the daughter of your aunt's stepsister has just had a baby. Send some presents. (100 MEH)
 Family pressure: your parents remind you that you still owe them for your bachelor in Environmental Design. Keep the peace and send cash.  (1000 MEH)
-Family pressure: your sister has just moved to Japan. You *have* to visit. (3000 MEH)
-Family pressure: you did promise your little nephew that glow-in-the-dark fluffy toy. (50 MEH)
+Family pressure: your sister has just moved to Japan. You *have* to visit. ASAP. (3000 MEH)
+Family pressure: you did promise your little nephew that glow-in-the-dark fluffy toy. Get on with it. (50 MEH)
 
 # Gifts / inheritance cards
 Gift from Betty, your American aunt (200 MEH)
@@ -79,7 +80,7 @@ Wandering sheep: one of your sheep got stolen by a trendy sheep photographer. [C
 Depressed farmer. You find it hard to get up so early every morning. Give all your sheep to the person on your left and do not take any action this season.
 Depressed farmer. Your sister has a job in finance and is earning much more than you. Stop redistributing. [Lasts until year end]
 Depressed farmer. You actually wanted to be a vet. You take up a long-distance course and start neglecting your animals. All get ill (health -2).
-Depressed farmer. You feel your life is a failure. But if only you had a [---] (draw a wish card), things would be different. Do not redistribute until your wish has been fulfilled, or you have had a psychotherapy.
+Depressed farmer. You feel your life is a failure. But if only you had a [---] (draw a wish card), things would be different. Do not redistribute until your wish has been fulfilled, or you have had a psychotherapy (3000 MEH).
 Depressed farmer. You feel people don't understand your needs. Stop redistributing until someone has given you [---] (fill the blank with your own desire, but don't tell other players what it is).
 
 # Jealousy cards
@@ -117,10 +118,10 @@ You organised the last village party, including fantastic music by DJ Meh-Moo. T
 The vet has been having a rough patch. You listened. They fell in your arms. You two are now dating.
 Due to an ordering mistake, the vet is out of disinfectant. You save the day by driving over with your own home-made vodka. They are very impressed by you. You start dating.
 The vet is depressed. They will not come and treat your sheep this season. [common]
-The vet turns polyamorous. [common]
 The vet's car has broken down and they're strapped up for cash. Either pay for the repair (500 MEH) or live without their services until year end. [common]
 The vet has a soft spot for you. They buy your cheapest wish for you.
 You're in love with the vet. And prone to jealousy. Don't redistribute to the vet's current partner.
+The vet has decided that love is forever. They will not break up anymore -- although they may still fall in love with someone new. [common, counteracts 'vet breaks up' cards]
 
 # Male lambs cards
 You think sheep holding is cruel on those sweet little male lambs. Don't sell any male lamb anymore.
@@ -128,11 +129,9 @@ One of your male lambs has been rejected by his mother. You raised it with the b
 The last male lamb born this year is particularly cute and draws lots of 'Oh's and 'Ah's. Against all rules, you give him a name (discuss this amongst yourselves). This lamb will never be sold. [Use next time male lambs are born.]
 
 # Miscellaneous
-The ram turns gay. You must buy a new ram. Your gay sheep can be kept on the commons or sold, inspect your conscience. [common]
+The ram turns gay and has no interest in ewes anymore. You must buy a new ram. Your gay sheep can be kept on the commons or sold: inspect your conscience. [common]
 Vegans on the rise: only half of the cheese production is sold this year.  [common]
 The TV says it: cheese is good for you! Milk prices up by 50% this year. [common]
-You have a bad mood. Don't redistribute at the end of the round.
-Buy a lottery ticket. (5 MEH) Throw the die 6 times. The winning numbers are 1 2 3 4 5 6. Get 10 MEH for 3 numbers, 100 for 4 numbers, 1000 for 5 numbers and 10,000 for 6 numbers!!
 You're disappointed with the quality of your last fulfilled wish. Return it to your wish pile.
 Send one of the village kids to spy on another player. That player must uncover one of their secret wishes. (5 MEH)
 The player on your left convinces you that you also want one of their unfulfilled wishes. This increases your unfulfilled wishes count by 1.

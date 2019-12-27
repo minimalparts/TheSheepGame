@@ -1,4 +1,4 @@
-# The Sheep Game (3+ players)
+# The Sheep Game (for 3 or more players)
 
 The sheep game is a cooperative game. Everybody wins or everybody loses! The basic idea of the game is best summarised by comparing it with the real world:
 
@@ -27,7 +27,7 @@ Should you want to re-generate the card decks to suit various age ranges, cultur
 
 Setting up the game involves a printer and a pair of scissors. Head to the *img* folder and start printing. You will find:
 
-* some sheep currency (MEH) in the *money* folder (you can also just steal cash from another game, preferably a competitive one...) 
+* some sheep currency (MEH) in the *money* folder (you can also just steal cash from another game, preferably a competitive one...)  
 * life and wish cards in the *life* and *wishes* directories;
 * some male and female sheep in the *farm* directory;
 * a ram, a sheep dog and a shelter card, as well as a board called *commons.png*, also in the *farm* directory.
