@@ -20,6 +20,8 @@ Now, you might think that keeping people happy is easy: you must simply commit t
 
 The sheep game includes the gory aspects of sheep holding. Your sheep may get ill and die. Also, while your female lambs will grow to be milk providers, the only source of income coming from your male lambs is meat.
 
+Should you want to re-generate the card decks to suit various age ranges, cultural preferences and farming expertise, head to [the wiki](https://github.com/minimalparts/TheSheepGame/wiki) for instructions. It only takes a couple of python commands!
+
 
 ## Setting up the game for the first time
 
@@ -86,7 +88,13 @@ Very importantly, do respect the order of play, even in the redistribution phase
 * The vet is great, but not infallible. They will do their best to treat your sheep when called, but fate can interfere. Illness cards are marked with health points (e.g. "health -2"). When the vet visits, a dice should be rolled. If the number on the dice *minus* the number on the card is zero or less, your sheep dies, despite the vet's efforts. The bill must still be paid.<br>
 **Example:** you draw an illness card with "health -2". You call the vet. Rolling the dice gives you a 3. Since 3 - 2 = 1, your sheep lives. If you had rolled a 2 or a 1, the sheep would sadly have died. 
 
-### Price list:
+
+### Getting into character
+
+In the course of the game, you may end up as the proud owner of silver-plated cufflings and a jellyfish aquarium, wishing you could one day take a one-week coach trip through Bavaria. Get into your character. Live the dream. 
+
+
+### Price list summary:
 
 * A ram: 100 MEH
 * A ewe: 500 MEH
